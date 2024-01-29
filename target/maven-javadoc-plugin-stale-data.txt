@@ -1,0 +1,58 @@
+@options
+@packages
+-classpath
+'/Users/rishab/Documents/school/third year/lab1/BinaryCalculator/target/classes:/Users/rishab/Documents/school/third year/lab1/BinaryCalculator/target/test-classes:/Users/rishab/.m2/repository/junit/junit/4.11/junit-4.11.jar:/Users/rishab/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/rishab/.m2/repository/joda-time/joda-time/2.9.2/joda-time-2.9.2.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'8'
+-sourcepath
+'/Users/rishab/Documents/school/third year/lab1/BinaryCalculator/src/test/java:/Users/rishab/Documents/school/third year/lab1/BinaryCalculator/target/generated-test-sources/test-annotations'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/rishab/Documents/school/third year/lab1/BinaryCalculator/target/site/testapidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'BinaryCalculator 1.0.0 Test API'
+-link
+'../apidocs'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/Users/rishab/Documents/school/third year/lab1/BinaryCalculator/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'BinaryCalculator 1.0.0 Test API'
+com.ontariotechu.sofe3980U
+/Users/rishab/Documents/school/third year/lab1/BinaryCalculator/target/classes = 1706493920302
+/Users/rishab/Documents/school/third year/lab1/BinaryCalculator/target/test-classes = 1706493920345
+/Users/rishab/.m2/repository/junit/junit/4.11/junit-4.11.jar = 1352920880000
+/Users/rishab/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar = 1341868082000
+/Users/rishab/.m2/repository/joda-time/joda-time/2.9.2/joda-time-2.9.2.jar = 1453988647000
+/Users/rishab/Documents/school/third year/lab1/BinaryCalculator/src/test/java/.DS_Store = 1706484399747
+/Users/rishab/Documents/school/third year/lab1/BinaryCalculator/src/test/java = 1706484399747
+/Users/rishab/Documents/school/third year/lab1/BinaryCalculator/target/generated-test-sources/test-annotations = 1706493920325
+/Users/rishab/Documents/school/third year/lab1/BinaryCalculator/target/site/testapidocs/tag-search-index.js = 1706493922858
+/Users/rishab/Documents/school/third year/lab1/BinaryCalculator/target/site/testapidocs/overview-tree.html = 1706493922851
+/Users/rishab/Documents/school/third year/lab1/BinaryCalculator/target/site/testapidocs/module-search-index.js = 1706493922857
+/Users/rishab/Documents/school/third year/lab1/BinaryCalculator/target/site/testapidocs/index.html = 1706493922864
+/Users/rishab/Documents/school/third year/lab1/BinaryCalculator/target/site/testapidocs/package-search-index.js = 1706493922857
+/Users/rishab/Documents/school/third year/lab1/BinaryCalculator/target/site/testapidocs/link.svg = 1706493922869
+/Users/rishab/Documents/school/third year/lab1/BinaryCalculator/target/site/testapidocs/index-all.html = 1706493922862
+/Users/rishab/Documents/school/third year/lab1/BinaryCalculator/target/site/testapidocs/allpackages-index.html = 1706493922857
+/Users/rishab/Documents/school/third year/lab1/BinaryCalculator/target/site/testapidocs/member-search-index.js = 1706493922857
+/Users/rishab/Documents/school/third year/lab1/BinaryCalculator/target/site/testapidocs/copy.svg = 1706493922869
+/Users/rishab/Documents/school/third year/lab1/BinaryCalculator/target/site/testapidocs/script.js = 1706493922869
+/Users/rishab/Documents/school/third year/lab1/BinaryCalculator/target/site/testapidocs/stylesheet.css = 1706493922868
+/Users/rishab/Documents/school/third year/lab1/BinaryCalculator/target/site/testapidocs/search-page.js = 1706493922870
+/Users/rishab/Documents/school/third year/lab1/BinaryCalculator/target/site/testapidocs/help-doc.html = 1706493922867
+/Users/rishab/Documents/school/third year/lab1/BinaryCalculator/target/site/testapidocs/element-list = 1706493922841
+/Users/rishab/Documents/school/third year/lab1/BinaryCalculator/target/site/testapidocs/search.html = 1706493922863
+/Users/rishab/Documents/school/third year/lab1/BinaryCalculator/target/site/testapidocs/allclasses-index.html = 1706493922855
+/Users/rishab/Documents/school/third year/lab1/BinaryCalculator/target/site/testapidocs/type-search-index.js = 1706493922857
+/Users/rishab/Documents/school/third year/lab1/BinaryCalculator/target/site/testapidocs/search.js = 1706493922870
