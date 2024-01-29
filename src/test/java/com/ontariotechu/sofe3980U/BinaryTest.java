@@ -173,11 +173,11 @@ public class BinaryTest
     // Multiply operation tests 
     @Test
     public void testMultiply() {
-        Binary binary1 = new Binary("10101010");
-        Binary binary2 = new Binary("11001100");
+        Binary binary1 = new Binary("1001");
+        Binary binary2 = new Binary("100110");
         Binary result = Binary.multiply(binary1, binary2);
         System.out.println("Cumulative result: " + result.getValue());
-        assertTrue(result.getValue().equals("1000011101111000")); // Expected multiply result
+        assertTrue(result.getValue().equals("101010110")); // Expected multiply result
     }
 
     @Test

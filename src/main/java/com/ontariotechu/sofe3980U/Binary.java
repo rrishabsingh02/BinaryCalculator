@@ -93,9 +93,9 @@ public class Binary
     }
 
 
-	// Implement AND operation
+	// implement AND operation
     public static Binary and(Binary num1, Binary num2) {
-        // Ensure both binaries have the same length
+        // ensure both binaries have the same length
         String bin1 = padWithZeros(num1.number, num2.number.length());
         String bin2 = padWithZeros(num2.number, num1.number.length());
 
@@ -107,7 +107,7 @@ public class Binary
         return new Binary(result.toString());
     }
 
-	// Implement Multiply operation
+	// implement Multiply operation
 	public static Binary multiply(Binary num1, Binary num2) {
 		// Start with a result of 0
 		Binary result = new Binary("0");
@@ -126,7 +126,7 @@ public class Binary
 
 
 
-    // Helper method to pad a binary string with leading zeros to match a given length
+    // helper method to pad a binary string with leading zeros
     private static String padWithZeros(String binary, int length) {
         StringBuilder sb = new StringBuilder(binary);
         while (sb.length() < length) {
